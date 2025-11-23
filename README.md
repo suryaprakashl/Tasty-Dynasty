@@ -9,10 +9,7 @@
   and every click tastes delicious.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Restaurant%20Website-Premium%20Design-maroon?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML-CSS-JavaScript-black?style=for-the-badge" />
-</p>
+
 
 ---
 
